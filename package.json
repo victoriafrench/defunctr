@@ -58,7 +58,7 @@
     "grunt-contrib-less": "^0.11.4",
     "grunt-contrib-nodeunit": "^0.3.3",
     "grunt-contrib-qunit": "^0.4.0",
-    "grunt-contrib-requirejs": "^0.4.4",
+    "grunt-contrib-requirejs": "^1.0.0",
     "grunt-contrib-sass": "^0.7.4",
     "grunt-contrib-stylus": "^0.15.1",
     "grunt-contrib-symlink": "^0.3.0",
