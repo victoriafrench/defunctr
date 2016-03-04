@@ -54,7 +54,7 @@
     "grunt-contrib-jade": "^0.11.0",
     "grunt-contrib-jasmine": "^0.6.5",
     "grunt-contrib-jshint": "^0.10.0",
-    "grunt-contrib-jst": "^0.6.0",
+    "grunt-contrib-jst": "^1.0.0",
     "grunt-contrib-less": "^0.11.4",
     "grunt-contrib-nodeunit": "^0.3.3",
     "grunt-contrib-qunit": "^0.4.0",
