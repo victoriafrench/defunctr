@@ -1,6 +1,7 @@
 ### HEAD
 
 * Adding document to illustrate how to migrate a Visual Studio project to NPM so we can stop distributing through NuGet
+* Updated rollup
 
 ### 2.0.0-beta.2 (August 22, 2017)
 
